@@ -146,6 +146,16 @@ img{
   header{
     display: flex;
     justify-content: space-between;
+    padding: 0;
+  }
+  
+  .logo {
+    margin: 14px 0 14px 20px;
+    padding-top: 0;
+    font-size: 42px;
+  }
+
+  header nav ul {
     align-items: center;
   }
 
