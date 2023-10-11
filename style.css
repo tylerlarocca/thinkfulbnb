@@ -64,8 +64,13 @@ header {
   color: #fff;
 }
 
+header nav ul{
+  display: flex;
+  justify-content:center;
+}
+
 header nav ul li {
-  list-style: row;
+  list-style-type: none;
 }
 
 ul#menu >li{
